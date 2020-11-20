@@ -11,6 +11,7 @@
 
 </head>
 <body>
+	#thử tí cho hay
 	<?php require_once 'process.php'; ?>
 
 	<?php if(isset($_SESSION['message'])): ?>
